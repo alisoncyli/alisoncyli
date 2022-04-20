@@ -8,7 +8,7 @@ This is Alison,
 
 - I can speak: English / 中文 / 日本語 / Español
 
-- And my obbies are: Reading / LPL / Kpop / R&B / Productivity
+- And my hobbies are: Reading / Productivity/ Kpop / LPL / R&B
 
 
 Nice to meet you!
