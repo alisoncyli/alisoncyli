@@ -6,7 +6,7 @@ This is Alison,
 
 - My major is: Finance and statistics
 
-- I can speak: English / 中文(Native) / 日本語 / Español
+- I can speak: 中文(Native) / English / 日本語 / Español
 
 - And my hobbies are: Reading / Productivity/ Kpop / LPL / R&B
 
