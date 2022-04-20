@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @alisoncyli
-- 👀 I’m interested in finance.
-- 🌱 I’m currently learning statistics, R and python.
-<!---
-alisoncyli/alisoncyli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello world!
+This is Alison
+
+English/中文/日本語/Español
