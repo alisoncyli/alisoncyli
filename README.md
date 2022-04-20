@@ -6,8 +6,9 @@ This is Alison
 
 - I can do: Python, R and Markdown
 
-- Major: Finance and statistics
+- Major in: Finance and statistics
 
-- Hobby: Reading Books/LPL/Kpop/R&B
+- Hobbies: Reading Books/LPL/Kpop/R&B
+
 
 Nice to meet you!
