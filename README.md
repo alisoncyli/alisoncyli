@@ -4,7 +4,7 @@ This is Alison,
 
 - I'm interested in: Python, R and Markdown
 
-- My major: Finance and statistics
+- My major: Finance/Statistics
 
 - I can speak: 中文(Native)/English/日本語/Español
 
