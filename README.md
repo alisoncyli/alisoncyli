@@ -6,7 +6,7 @@ This is Alison
 
 - I can do: Python, R and Markdown
 
-- Major in: Finance and statistics
+- Major: Finance and statistics
 
 - Hobbies: Reading Books / LPL / Kpop / R&B
 
